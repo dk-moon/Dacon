@@ -7,8 +7,8 @@
 
 - 일시 : 2024.07.29 ~ 2024.08.23 09:59
 - 순위(전체 360팀, 참가자 수 1,001명)
-  - Public : 21 등, score : 0.71238
-  - Private : 24 등, score : 0.68749
+  - Public : 21 등(5.83%), score : 0.71238
+  - Private : 24 등(6.66%), score : 0.68749
 - <https://dacon.io/competitions/official/236295/overview/description>
 - 주최 : 한국재정정보원, 기획재정부
 - 규칙
